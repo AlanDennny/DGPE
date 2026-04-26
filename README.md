@@ -1,5 +1,7 @@
 # DGPE – Digital Grating Percolation Engine
 
+> **📎 Evidence**: See [`docs/`](docs/) for AMD Vitis HLS implementation & co-simulation reports.
+
 ## Overview
 A **comparator-free**, **deterministic-latency** Top‑K selection accelerator for FPGA.  
 Built with AMD Vitis HLS, targeting Xilinx Zynq‑7000 (XC7Z020CLG400‑1).
