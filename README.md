@@ -48,4 +48,4 @@ The full HLS source is not publicly disclosed at this stage.
 For academic collaboration or commercial licensing, please open a GitHub Issue or Discussion in this repository.
 
 ## Author
-**[Karsen]** – Self‑directed research project.  
+**[Karsen]** – Self‑directed research project.
