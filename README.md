@@ -49,4 +49,3 @@ For academic collaboration or commercial licensing, please open a GitHub Issue o
 
 ## Author
 **[Karsen]** – Self‑directed research project.  
-Interested in FPGA acceleration, computer architecture, and hardware‑software co‑design.
